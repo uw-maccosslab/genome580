@@ -7,7 +7,7 @@ title: Home
 
 ## Course Description
 
-Being a scientist means more than doing experiments and publishing papers — it means being a responsible member of a community that depends on trust, honesty, and integrity at every level. This course gives Genome Sciences graduate students a space to think seriously about the ethical dimensions of research life: how we publish, how we handle data, how we mentor and are mentored, how we collaborate, and how we navigate the growing responsibilities that come with working on human genomic data.
+Being a scientist means more than doing experiments and publishing papers — it means being a responsible member of a community that depends on trust, honesty, and integrity at every level. This course gives graduate students in Genome Sciences and affiliated programs a space to think seriously about the ethical dimensions of research life: how we publish, how we handle data, how we mentor and are mentored, how we collaborate, and how we navigate the growing responsibilities that come with working on human genomic data.
 
 We don't have all the answers, and many of these questions don't have clean answers. The goal is to develop good judgment through reading, discussion, and honest reflection on the norms and pressures of modern science.
 
