@@ -1,0 +1,25 @@
+title: Genome 580
+description: Ethics in Research and Teaching
+url: "https://uw-maccosslab.github.io/genome580"
+baseurl: "/genome580"
+
+# Site settings
+author: Michael MacCoss
+email: maccoss[at]uw[dot]edu
+institution: University of Washington
+department: Department of Genome Sciences
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

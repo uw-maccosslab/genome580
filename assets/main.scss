@@ -1,0 +1,89 @@
+---
+---
+
+@import "minima";
+
+/* Widen the content area */
+.page-content .wrapper {
+  max-width: 1400px !important;
+  margin: 0 auto !important;
+  padding: 0 30px !important;
+}
+
+.site-header .wrapper {
+  max-width: 1400px !important;
+  margin: 0 auto !important;
+  padding: 0 30px !important;
+}
+
+@media screen and (max-width: 800px) {
+  .page-content .wrapper,
+  .site-header .wrapper {
+    max-width: 100% !important;
+    padding: 0 15px !important;
+  }
+}
+
+/* Schedule table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+  margin: 1.5rem 0;
+}
+
+table th {
+  background-color: #4b2e83;
+  color: #ffffff;
+  padding: 0.6rem 0.8rem;
+  text-align: left;
+}
+
+table td {
+  padding: 0.6rem 0.8rem;
+  vertical-align: top;
+  border-bottom: 1px solid #ddd;
+}
+
+table tr:nth-child(even) {
+  background-color: #f7f4fc;
+}
+
+table tr:hover {
+  background-color: #ede9f7;
+}
+
+/* Column width hints */
+table td:first-child {
+  white-space: nowrap;
+  width: 14%;
+}
+
+table td:nth-child(2) {
+  width: 8%;
+  white-space: nowrap;
+}
+
+table td:nth-child(3) {
+  width: 15%;
+}
+
+table td:last-child {
+  width: 63%;
+}
+
+/* Readings list inside table */
+table td a {
+  display: inline;
+  color: #2774d7;
+}
+
+/* Link styling */
+a {
+  color: #2774d7;
+}
+
+/* WCAG compliance */
+.footer-col-wrapper {
+  color: #646363;
+}
