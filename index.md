@@ -7,19 +7,32 @@ title: Home
 
 ## Course Description
 
-This course explores ethical issues in research and teaching and discusses avenues of responsible conduct. Intended for Genome Sciences grads and others supported by departmental training grants.
+Being a scientist means more than doing experiments and publishing papers — it means being a responsible member of a community that depends on trust, honesty, and integrity at every level. This course gives Genome Sciences graduate students a space to think seriously about the ethical dimensions of research life: how we publish, how we handle data, how we mentor and are mentored, how we collaborate, and how we navigate the growing responsibilities that come with working on human genomic data.
+
+We don't have all the answers, and many of these questions don't have clean answers. The goal is to develop good judgment through reading, discussion, and honest reflection on the norms and pressures of modern science.
+
+## Learning Objectives
+
+By the end of this course, students will be able to:
+
+- **Navigate authorship and publication ethics** — understand community standards for authorship, peer review, and responsible publishing
+- **Recognize and respond to data integrity issues** — identify red flags in data handling and know what to do when something seems wrong
+- **Reflect on mentorship** — think critically about what makes a good mentor and a good mentee, and how power dynamics shape the training environment
+- **Handle genomic data responsibly** — understand the privacy implications, legal frameworks, and ethical responsibilities that come with working with human genetic information
+- **Collaborate with integrity** — appreciate norms around data sharing, resource allocation, and building productive research partnerships
 
 ## Class Format
 
-Most classes will be focused on a discussion with the instructor and guest faculty discussant(s). There will be assigned readings for each topic, and I will put those on the class website several days prior to the class. Please print those and bring them to class. We will also have some questions to structure the discussion, but your thoughts and questions aired in the discussion are the heart of the class. For some classes we will break into subgroups to have a more focused discussion.
+Most sessions are discussion-based, with the instructor and one or more guest faculty discussants. Readings are assigned for each topic and will be posted on this site several days before class — please read them and bring them with you. Discussion questions will be provided to help structure the conversation, but we genuinely want to hear your perspectives and questions. That's the heart of the class. For some sessions we'll break into smaller groups for more focused discussion.
 
 ## Instructor
 
-Michael MacCoss, Ph.D.
+[Michael MacCoss, Ph.D.](https://maccosslab.org)
+Department of Genome Sciences, University of Washington
 
 ## Course Materials
 
-We do not use a textbook. There will be assigned readings from the literature, perspectives, and/or free online sources.
+There is no textbook. All readings are drawn from the scientific literature, editorials, and journalism, and are available through this website.
 
 ## Course Schedule
 
