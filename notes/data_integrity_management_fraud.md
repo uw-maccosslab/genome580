@@ -69,11 +69,13 @@ You are reviewing a manuscript for a society journal. On close inspection, two l
 - How should the editor handle this if the authors claim a figure-assembly error?
 
 ### Scenario 3: The whistle with a cost
-A postdoc in a neighboring lab tells you, in confidence, that she has seen her PI instruct a student to "clean up" flow cytometry gates in a way that changes the conclusion of a Nature paper under revision. She is on a J-1 visa, and her PI is writing her recommendation letters. She wants your advice.
+A postdoc in a neighboring lab tells you, in confidence, that she has watched her PI instruct a graduate student to re-run the variant-calling pipeline on a tumor-normal whole-genome sequencing cohort with the coverage and VAF filters relaxed on the three samples that did not support the paper's central claim, while leaving the stringent filters in place on every other sample. The re-processed calls are the ones now in Supplementary Table 2 of a Nature paper under revision. The raw BAMs are still on the cluster. She is on a J-1 visa, and her PI is writing her recommendation letters. She wants your advice.
 
 - What are her options at UW, and what are the realistic costs of each?
 - What are your obligations, having now been told? Are you a bystander, a witness, or neither?
+- The raw data and the pipeline code still exist. Does the availability of reproducible evidence change the calculus, and for whom?
 - If the paper is published, is there a point at which the community's interest in correction outweighs her career risk?
+- What lab-level practices (locked pipelines, versioned configs, pre-registered analysis plans, external replication) could have prevented the situation from arising?
 
 ### Scenario 4: The AI-generated microscopy image
 A reviewer using a generative-AI detection tool flags that a confocal image in a manuscript under review appears to be synthetic. The authors insist the image is real and offer the raw microscope file. The raw file validates, but two other images in the same paper fail the same detector.
